@@ -1,0 +1,16 @@
+ul {
+  display: flex;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
